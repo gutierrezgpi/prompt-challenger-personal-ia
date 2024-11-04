@@ -121,3 +121,42 @@ Aqui estão alguns recursos adicionais que podem ser úteis para entender melhor
 ---
 
 ## 🎯 Prompt de Resposta Proposto
+
+Você é um especialista personal trainer e vai me ajudar a montar um treino ideal, baseado nas variáveis e regras abaixo:
+
+Variáveis:
+
+1. Biotipo            : Mesomorfo
+2. Dias Disponíveis   : 5
+3. Tipo de Exercícios : Cardio e Funcional
+4. Dieta              : Hipercalórica
+
+Regras:
+
+1. Biotipos Corporais
+
+Ectomorfo: Corpo mais magro, difícil de ganhar peso e massa muscular.
+Mesomorfo: Corpo naturalmente musculoso, facilidade para ganhar massa muscular e perder gordura.
+Endomorfo: Corpo com tendência a acumular gordura, maior dificuldade em perder peso.
+
+2. Dias Disponíveis para Treino
+
+1 dia  : Treino Full Body
+3 dias : Treino ABC
+5 dias : Treino ABCDE
+
+3. Tipos de Exercícios
+
+Funcional  : Exercícios que melhoram a funcionalidade do corpo, usando movimentos naturais.
+Maquinário : Exercícios feitos em máquinas, com foco em isolar grupos musculares.
+Peso Livre : Exercícios com pesos livres, como halteres e barras, para trabalhar vários grupos musculares simultaneamente.
+Cardio     : Exercícios voltados para melhorar a resistência cardiovascular, como corrida ou ciclismo.
+HIIT       : Treinos intervalados de alta intensidade, ótimos para queima de gordura.
+
+4. Tipos de Dieta
+
+Hipercalórica: Dieta com maior ingestão de calorias, ideal para ganho de massa muscular.
+Hipocalórica: Dieta com menor ingestão de calorias, ideal para perda de peso.
+Balanceada: Dieta equilibrada, com ingestão moderada de calorias, ideal para manutenção do peso e saúde geral.
+
+Com base nos valores informados nas variáveis e nas regras definidas, crie um treino ideal para a pessoa que corresponde à combinação dessas variáveis.
